@@ -8,7 +8,7 @@ A complete, rule-based **RFM (Recency, Frequency, Monetary) segmentation** built
 | Guide | What is inside |
 |---|---|
 | [Dataset guide](docs/README_dataset.md) | 500,000 rows, 25 columns, every column explained, data-quality notes |
-| [Notebook guide](docs/README_notebook.md) | Libraries and why each was used, notebook structure, how to run |
+| [Notebook guide](/workspaces/rfm-customer-segmentation-python/notebook/readme.md) | Libraries and why each was used, notebook structure, how to run |
 | [Chart guide](charts/README.md) | All six charts with a link and a short analysis each |
 
 ---
